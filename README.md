@@ -70,7 +70,6 @@ To explore stock price trends, assess volatility, and uncover relationships betw
 MSc Data Science | Aspiring Data Analyst  
 GitHub:https://github.com/jaydevchole
 LinkedIn:(https://www.linkedin.com/in/jaydev-chole-b3313b327)
-
 ---
 
-Let me know if you want help customizing this for your GitHub profile or converting it into a portfolio PDF.
+
