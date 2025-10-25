@@ -27,7 +27,6 @@ To explore stock price trends, assess volatility, and uncover relationships betw
 - Correlation matrix of price metrics
 
 ### 2. Feature Engineering
-- 7-day and 30-day moving averages
 - Rolling standard deviation for volatility
 
 ### 3. Inter-stock Correlation
@@ -39,12 +38,11 @@ To explore stock price trends, assess volatility, and uncover relationships betw
 - Evaluation using R² and RMSE
 
 ## 📈 Visualizations
-- 📉 Closing Price Distribution
-- 📦 Boxplot of Closing Prices
-- 📊 Volume vs. Closing Price
-- 🔗 Correlation Matrix
-- 📊 Moving Averages and Volatility Trends
-- 🔮 AAPL Price Prediction Plot
+-  Closing Price Distribution
+-  Boxplot of Closing Prices
+-  Volume vs. Closing Price
+-  Correlation Matrix
+-  AAPL Price Prediction Plot
 
 ## 📌 Insights
 - Strong positive correlation among price metrics
@@ -61,11 +59,11 @@ To explore stock price trends, assess volatility, and uncover relationships betw
 ## 📁 Project Structure
 ```
 ├── stocks.csv
-├── stock_market_analysis.ipynb
+├── Stock-Market-Analysis.ipynb
 ├── README.md
 ```
 
-## 🧾 Author
+##  Author
 **Jaydev Chole**  
 MSc Data Science | Aspiring Data Analyst  
 GitHub:https://github.com/jaydevchole
